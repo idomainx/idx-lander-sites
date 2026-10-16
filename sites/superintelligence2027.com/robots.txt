@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://superintelligence2027.com/sitemap.xml
